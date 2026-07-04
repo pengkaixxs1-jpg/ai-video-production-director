@@ -1,7 +1,0 @@
-interface:
-  display_name: "AI Video Production Director"
-  short_description: "AI video prompt systems and QA."
-  default_prompt: "Use $ai-video-production-director to turn this AI video idea into a grounded shot plan, image prompt, and QA checklist."
-
-policy:
-  allow_implicit_invocation: true
